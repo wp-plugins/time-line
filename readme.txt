@@ -1,7 +1,7 @@
 === Time Line ===
 Contributors: Alobaidi
 Donate link: http://j.mp/WPTime_donations
-Tags: timeline, time line, time, line, time-line, responsive, retina, customize, custom, customizer, customizing, image, images, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments, shortcode
+Tags: timeline, time line, time, line, responsive, retina, customize, custom, customizer, customizing, image, images, Post, plugin, posts, page, widget, admin, sidebar, google, twitter, comments, shortcode
 Requires at least: 2.8.0
 Tested up to: 4.2.3
 Stable tag: 1.0.0
