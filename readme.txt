@@ -12,7 +12,7 @@ Make your timeline page easily, one shortcode only and full customize.
 
 == Description ==
 
-### Time Line           
+### Timeline           
 
 Make your timeline page easily, one shortcode only and full customize.
 
